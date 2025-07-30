@@ -36,4 +36,12 @@ module "subnet" {
   address_prefixes = var.address_prefixes_dev
 }
 
-#"hello osto kaise hai aap"
+
+
+# hello
+#this 
+#is
+#your 
+#friend
+
+
